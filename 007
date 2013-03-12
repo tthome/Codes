@@ -1,2 +1,11 @@
-int i; 
-	
+int i = 0; 
+
+while (i < 10) {
+	i++;
+}
+лох, пидр
+printf()
+
+
+iiuegruhrwehur
+rjohrrhuwenr
